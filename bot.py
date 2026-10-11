@@ -26,7 +26,7 @@ server_thread.start()
 BOT_TOKEN = "8845160703:AAHhVwnVxt_0rT4zGWvMDVdcZVFDoJ67cmE"
 
 MOVIES_DATABASE = {
-    "movie_1": "BAACAgUAAxkBAAMSaso6PiUAAROJzlgtx_cV2kSAxsQAAK3IgACeutQVqTIPUWnDcm2PQQ",
+    "movie_1": "BAACAgUAAxkBAAEvpXRqy75NXLGOFbyMOzzCWhxWsxXc4gACtyIAAhLrUFZuE9y127JIUz0E",
 }
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
