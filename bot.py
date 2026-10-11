@@ -21,7 +21,7 @@ server_thread.daemon = True
 server_thread.start()
 
 # Bot Token
-BOT_TOKEN = "8845160703:AAGkTLzifU6rrNCSB9UxrAbF12v8uuzn76M"
+BOT_TOKEN = "8845160703:AAHmHNWa7OCoJPSmyFS3859ADrtLGbPph8Y"
 
 MOVIES_DATABASE = {
     "movie_1": "BAACAgUAAxkBAAMSaso6PiUAAROJzlgtx_cV2kSAxsQAAK3IgACeutQVqTIPUWnDcm2PQQ",
