@@ -1,7 +1,7 @@
 import os
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import threading
-from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
+from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # Render එක වෙනුවෙන් Port එක Open කර තබන Dummy Web Server එක
@@ -24,9 +24,7 @@ server_thread.start()
 BOT_TOKEN = "8845160703:AAGkTLzifU6rrNCSB9UxrAbF12v8uuzn76M"
 
 MOVIES_DATABASE = {
-    "movie_1": (
-        "BAACAgUAAxkBAAMSaso6PiUAAROJzlgtx_cV2kSAxsQAAK3IgACeutQVqTIPUWnDcm2PQQ"
-    ),
+    "movie_1": "BAACAgUAAxkBAAMSaso6PiUAAROJzlgtx_cV2kSAxsQAAK3IgACeutQVqTIPUWnDcm2PQQ",
 }
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
