@@ -1,3 +1,5 @@
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text("Bot එක වැඩ කරනවා! 🎬")
 import os
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import threading
