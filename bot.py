@@ -6,7 +6,7 @@ BOT_TOKEN = "8845160703:AAHhVwnVxt_0rT4zGWvMDVdcZVFDoJ67cmE"
 
 MOVIES_DATABASE = {
     "movie_1": (
-        "AgACAgUAAxkBAAEvpXpqy8Cf1Q0jKL4pQIuVfdH8oSWTXgACFBRrGxLrWFa_1to_wRH-OgEAAwIAA3kAAz0E"
+        "AgACAgUAAxkBAAEvqZFqzI6ZE7H6TNFbAb2O7f5psrtbNQAC1RBrGzx6aVZspil7_gZSdwEAAwIAA3kAAz0E"
     ),  # මෙතැනට අලුත් ID එක දෙන්න
 }
 
